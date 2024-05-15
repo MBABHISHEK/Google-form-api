@@ -1,0 +1,16 @@
+{
+  "name": "files-cloud",
+  "version": "1.0.0",
+  "description": "audio uploading system to cloud",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ABHISHEK M B",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "googleapis": "^136.0.0",
+    "multer": "^1.4.5-lts.1"
+  }
+}
